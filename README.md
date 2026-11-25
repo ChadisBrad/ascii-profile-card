@@ -8,6 +8,8 @@ A GitHub profile card with a letter drawn as lit, slowly turning 3D ASCII art, n
 
 Live on my profile: [github.com/ChadisBrad](https://github.com/ChadisBrad)
 
+Part of [ascii-3d-art](https://github.com/ChadisBrad/ascii-3d-art), which has the full engine, a rose and a diamond ring, and the Claude Code skill this card is built on.
+
 ## Why I made it
 
 My old profile ran a stats card off a GitHub Action that was meant to refresh every hour. GitHub ran it every six to twelve hours, so the numbers were always out of date, and the README had turned into a wall of badges. I wanted one card that says who I am, doesn't look like every other profile, and never needs a job to keep it current.
