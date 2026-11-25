@@ -1,0 +1,11 @@
+{
+  "name": "Your Name",
+  "tagline": "One line on what you do.",
+  "facts": [
+    ["role", "What you do, and where"],
+    ["based", "City, Country"],
+    ["builds", "the kind of things you make"],
+    ["stack", "Your · Main · Tools"],
+    ["now", "what you're working on"]
+  ]
+}
